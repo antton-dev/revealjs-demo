@@ -138,10 +138,11 @@ This is not really useful, but it's cool and easy.
 | point | reveal.js | slides |
 |---|---|---|
 | Versionnable (git) | ✅ | ❌ |
-| fast | ✅ Markdown | ➖ |
+| fast | ✅ Markdown | ✅ |
 | precise / minucious design | ➖ CSS | ✅ |
 | Export PDF | ✅ | ✅ |
 | collaborative | ✅  git | ✅ |
+| Internet required | No  | Yes |
 
 
 ---
